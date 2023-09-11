@@ -1,0 +1,52 @@
+h1 {  
+    text-align: center;  
+    padding: 23px;  
+    background-color: #22668D;  
+    color:#FFFADD;
+    text-transform: uppercase; 
+    font-weight: bold; 
+}  
+  
+#clear{  
+width: 450px;  
+border: 3px solid #8ECDDD;  
+    border-radius: 3px;  
+    padding: 20px;
+    margin-top: 5px;  
+    background-color: #22668D;  
+    color: #FFFADD;
+}   
+#clear:hover{
+    background-color: #8ECDDD;
+}
+.formstyle  
+{  
+width: 500px;  
+height: 700px;  
+margin: auto;  
+border: 3px solid black;  
+border-radius: 10px;  
+padding: 20px;  
+background-color:#FFCC70;
+}  
+input  
+{  
+width: 110px;  
+background-color: #FFFADD;  
+color: black;
+font-weight: bold;  
+border: 3px solid #8ECDDD;  
+    border-radius: 5px;  
+    padding: 26px;  
+    margin: 5px;   
+}   
+input:hover{
+    background-color: #22668D;
+}
+#calc{  
+width: 450px;  
+border: 3px solid #8ECDDD;  
+    border-radius: 3px;  
+    padding: 20px;  
+    margin: auto;  
+}  
